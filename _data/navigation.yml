@@ -1,7 +1,7 @@
 main:
-  - title: "Professional Experience"
+  - title: "Experience"
     url: /professional-experience/
-  - title: "Other Experiences"
+  - title: "Other"
     url: /other-experiences/
-  - title: "Personal Projects"
+  - title: "Projects"
     url: /personal-projects/

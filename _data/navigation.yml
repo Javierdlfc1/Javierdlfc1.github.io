@@ -1,6 +1,8 @@
 main:
   - title: "Experience"
     url: /professional-experience/
+  - title: "Tools"
+    url: /tools/
   - title: "Other"
     url: /other-experiences/
   - title: "Projects"

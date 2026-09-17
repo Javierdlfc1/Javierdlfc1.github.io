@@ -3,26 +3,14 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: "About me"
 
 author:
-  name: "Jesús de la Fuente Cedeño"
+  name: "Javier de la Fuente Cedeño"
   avatar: "/assets/images/profile.jpeg" # Ensure your image is correctly uploaded
-  bio: "Ph.D. in Machine Learning and Computational Biology."
-  location: "Almería, Spain"
+  bio: "Business Development & Project Management"
+  location: "Pamplona, Spain"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:a904346@alumni.unav.es"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jesusdfc"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jfctelecomm/"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=uXbuO-sAAAAJ&hl=en"
-    - label: "Kaggle"
-      icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/jdlfuentec"
+      url: "https://www.linkedin.com/in/javier-de-la-fuente-cedeño/"
 
 
 

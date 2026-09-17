@@ -6,7 +6,7 @@ permalink: /personal-projects/
 
 ## Personal Projects
 
-### REDESIGNFIELDS
+### AI&FIELDS
 
 **Rural Land Intelligence & Regenerative Development**<br>
 *2026–Present · Navarra · Personal Project / Concept Development*
